@@ -6,3 +6,5 @@ ipython
 scipy
 nltk
 seaborn
+vaderSentiment
+tqdm
